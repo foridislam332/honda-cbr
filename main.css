@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar */
+.navbar {
+    z-index: 999;
+}
+
+.navbar .nav-item .nav-link,
+.btn {
+    font-weight: 500;
+}
+
+/* header banner */
+.header_banner {
+    padding-top: 69px;
+    padding-bottom: 96px;
+}
+
+.banner_text p {
+    font-size: 14px;
+}
+
+.banner_text h1 {
+    margin-bottom: 18px;
+}
+
+.banner_text .btn {
+    margin-top: 5px;
+}
+
+/* fetured_sec */
+.fetured_head hr {
+    width: 58px;
+    color: red;
+    height: 1px;
+}
+
+.fetured_bikes .col-lg-4 {
+    width: 28%;
+}
