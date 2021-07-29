@@ -20,6 +20,10 @@
         padding-right: 0;
     }
 
+    .modal {
+        width: 98%;
+    }
+
     /* fetured_bikes */
     .fetured_bikes .col-lg-4 {
         width: auto;
@@ -45,5 +49,15 @@
     .accordion {
         margin: 0 19px !important;
         padding: 0 !important;
+    }
+
+    /* footer */
+    .get_app {
+        float: left !important;
+    }
+
+    .copywrite {
+        margin-top: 0;
+        text-align: center;
     }
 }

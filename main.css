@@ -83,3 +83,12 @@ h1 {
     font-weight: 500;
     font-size: 20px;
 }
+
+/* footer */
+.get_app img {
+    width: 135px;
+}
+
+.copywrite {
+    margin-top: -70px;
+}
