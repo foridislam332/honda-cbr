@@ -1,0 +1,49 @@
+@media (max-width: 767px) {
+
+    /* common css */
+    h1 {
+        font-size: 36px !important;
+    }
+
+    /* header_banner */
+    .header_banner {
+        padding-top: 46px;
+        padding-bottom: 34px;
+    }
+
+    /* banner image */
+    .banner_img {
+        margin-top: 56px;
+    }
+
+    .banner_text p {
+        padding-right: 0;
+    }
+
+    /* fetured_bikes */
+    .fetured_bikes .col-lg-4 {
+        width: auto;
+        margin-bottom: 116px;
+        padding: 0 35px;
+    }
+
+    .fetured_bikes .row {
+        padding-bottom: 0 !important;
+    }
+
+    /* happy_client_head */
+    .happy_client_head h1 {
+        margin-top: -40px !important;
+    }
+
+    /* faq_image */
+    .faq_image {
+        padding: 0 30px 67px;
+    }
+
+    /* faq accordion */
+    .accordion {
+        margin: 0 19px !important;
+        padding: 0 !important;
+    }
+}

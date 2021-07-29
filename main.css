@@ -2,6 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+h1 {
+    font-size: 48px;
+}
+
 /* navbar */
 .navbar {
     z-index: 999;
@@ -18,8 +22,14 @@ body {
     padding-bottom: 96px;
 }
 
+.banner_text {
+    padding: 0 8px;
+}
+
 .banner_text p {
     font-size: 14px;
+    font-weight: 300;
+    padding-right: 120px;
 }
 
 .banner_text h1 {
@@ -39,4 +49,37 @@ body {
 
 .fetured_bikes .col-lg-4 {
     width: 28%;
+}
+
+.happy_client .card {
+    padding: 40px 35px;
+}
+
+.happy_client .card img {
+    width: 149px;
+    height: 149px;
+    margin-bottom: 30px;
+}
+
+.ratting_icon {
+    margin-bottom: 15px;
+}
+
+.ratting_icon a i {
+    color: #E76F51;
+    padding: 2.5px;
+    font-size: 18px;
+}
+
+.card-body h5 {
+    margin-top: 15px;
+}
+
+.card-text {
+    color: #6C6C6C;
+}
+
+.accordion-button {
+    font-weight: 500;
+    font-size: 20px;
 }
